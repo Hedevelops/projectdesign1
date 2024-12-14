@@ -77,7 +77,7 @@ body {
   flex-direction: column;
   gap: 3px;
   margin-right: 10%;
-  visibility: hidden;
+  visibility: hidden !important;
 }
 .invisible{
   
